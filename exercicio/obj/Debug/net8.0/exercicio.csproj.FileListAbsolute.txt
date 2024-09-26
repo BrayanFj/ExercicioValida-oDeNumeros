@@ -1,0 +1,14 @@
+c:\Users\Suporte\Desktop\csharp\exercicio\bin\Debug\net8.0\exercicio.exe
+c:\Users\Suporte\Desktop\csharp\exercicio\bin\Debug\net8.0\exercicio.deps.json
+c:\Users\Suporte\Desktop\csharp\exercicio\bin\Debug\net8.0\exercicio.runtimeconfig.json
+c:\Users\Suporte\Desktop\csharp\exercicio\bin\Debug\net8.0\exercicio.dll
+c:\Users\Suporte\Desktop\csharp\exercicio\bin\Debug\net8.0\exercicio.pdb
+c:\Users\Suporte\Desktop\csharp\exercicio\obj\Debug\net8.0\exercicio.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Suporte\Desktop\csharp\exercicio\obj\Debug\net8.0\exercicio.AssemblyInfoInputs.cache
+c:\Users\Suporte\Desktop\csharp\exercicio\obj\Debug\net8.0\exercicio.AssemblyInfo.cs
+c:\Users\Suporte\Desktop\csharp\exercicio\obj\Debug\net8.0\exercicio.csproj.CoreCompileInputs.cache
+c:\Users\Suporte\Desktop\csharp\exercicio\obj\Debug\net8.0\exercicio.dll
+c:\Users\Suporte\Desktop\csharp\exercicio\obj\Debug\net8.0\refint\exercicio.dll
+c:\Users\Suporte\Desktop\csharp\exercicio\obj\Debug\net8.0\exercicio.pdb
+c:\Users\Suporte\Desktop\csharp\exercicio\obj\Debug\net8.0\exercicio.genruntimeconfig.cache
+c:\Users\Suporte\Desktop\csharp\exercicio\obj\Debug\net8.0\ref\exercicio.dll
